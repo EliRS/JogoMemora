@@ -1,0 +1,66 @@
+C:\Users\Greicy R\Desktop\JogoDaMemoria\JogoDaMemoria\bin\Debug\JogoDaMemoria.exe.config
+C:\Users\Greicy R\Desktop\JogoDaMemoria\JogoDaMemoria\bin\Debug\JogoDaMemoria.exe
+C:\Users\Greicy R\Desktop\JogoDaMemoria\JogoDaMemoria\bin\Debug\JogoDaMemoria.pdb
+C:\Users\Greicy R\Desktop\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.csprojAssemblyReference.cache
+C:\Users\Greicy R\Desktop\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.frmPrincipal.resources
+C:\Users\Greicy R\Desktop\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.Properties.Resources.resources
+C:\Users\Greicy R\Desktop\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.csproj.GenerateResource.cache
+C:\Users\Greicy R\Desktop\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.csproj.CoreCompileInputs.cache
+C:\Users\Greicy R\Desktop\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.exe
+C:\Users\Greicy R\Desktop\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.pdb
+J:\JogoDaMemoria\JogoDaMemoria\bin\Debug\JogoDaMemoria.exe.config
+J:\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.exe
+J:\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.pdb
+J:\JogoDaMemoria\JogoDaMemoria\bin\Debug\JogoDaMemoria.exe
+J:\JogoDaMemoria\JogoDaMemoria\bin\Debug\JogoDaMemoria.pdb
+J:\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.csprojResolveAssemblyReference.cache
+J:\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.frmPrincipal.resources
+J:\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.Properties.Resources.resources
+J:\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.csproj.GenerateResource.Cache
+E:\JogoDaMemoria\JogoDaMemoria\bin\Debug\JogoDaMemoria.exe.config
+E:\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.exe
+E:\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.pdb
+E:\JogoDaMemoria\JogoDaMemoria\bin\Debug\JogoDaMemoria.exe
+E:\JogoDaMemoria\JogoDaMemoria\bin\Debug\JogoDaMemoria.pdb
+E:\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.csprojResolveAssemblyReference.cache
+E:\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.frmPrincipal.resources
+E:\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.Properties.Resources.resources
+E:\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.csproj.GenerateResource.Cache
+J:\ELIAS\Copia_JogoDaMemoria\JogoDaMemoria\bin\Debug\JogoDaMemoria.exe.config
+J:\ELIAS\Copia_JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.exe
+J:\ELIAS\Copia_JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.pdb
+J:\ELIAS\Copia_JogoDaMemoria\JogoDaMemoria\bin\Debug\JogoDaMemoria.exe
+J:\ELIAS\Copia_JogoDaMemoria\JogoDaMemoria\bin\Debug\JogoDaMemoria.pdb
+J:\ELIAS\Copia_JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.csprojResolveAssemblyReference.cache
+J:\ELIAS\Copia_JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.frmPrincipal.resources
+J:\ELIAS\Copia_JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.Properties.Resources.resources
+J:\ELIAS\Copia_JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.csproj.GenerateResource.Cache
+E:\ELIAS\Copia_JogoDaMemoria\JogoDaMemoria\bin\Debug\JogoDaMemoria.exe.config
+E:\ELIAS\Copia_JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.exe
+E:\ELIAS\Copia_JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.pdb
+E:\ELIAS\Copia_JogoDaMemoria\JogoDaMemoria\bin\Debug\JogoDaMemoria.exe
+E:\ELIAS\Copia_JogoDaMemoria\JogoDaMemoria\bin\Debug\JogoDaMemoria.pdb
+E:\ELIAS\Copia_JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.csprojResolveAssemblyReference.cache
+E:\ELIAS\Copia_JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.frmPrincipal.resources
+E:\ELIAS\Copia_JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.Properties.Resources.resources
+E:\ELIAS\Copia_JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.csproj.GenerateResource.Cache
+C:\Users\Greicy R\Desktop\Copia_JogoDaMemoria\JogoDaMemoria\bin\Debug\JogoDaMemoria.exe.config
+C:\Users\Greicy R\Desktop\Copia_JogoDaMemoria\JogoDaMemoria\bin\Debug\JogoDaMemoria.exe
+C:\Users\Greicy R\Desktop\Copia_JogoDaMemoria\JogoDaMemoria\bin\Debug\JogoDaMemoria.pdb
+C:\Users\Greicy R\Desktop\Copia_JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.csprojAssemblyReference.cache
+C:\Users\Greicy R\Desktop\Copia_JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.frmPrincipal.resources
+C:\Users\Greicy R\Desktop\Copia_JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.Properties.Resources.resources
+C:\Users\Greicy R\Desktop\Copia_JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.csproj.GenerateResource.cache
+C:\Users\Greicy R\Desktop\Copia_JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.csproj.CoreCompileInputs.cache
+C:\Users\Greicy R\Desktop\Copia_JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.exe
+C:\Users\Greicy R\Desktop\Copia_JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.pdb
+C:\Users\Greicy R\Desktop\Jogo\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.csprojAssemblyReference.cache
+C:\Users\Greicy R\Desktop\Jogo\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.frmPrincipal.resources
+C:\Users\Greicy R\Desktop\Jogo\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.Properties.Resources.resources
+C:\Users\Greicy R\Desktop\Jogo\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.csproj.GenerateResource.cache
+C:\Users\Greicy R\Desktop\Jogo\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.csproj.CoreCompileInputs.cache
+C:\Users\Greicy R\Desktop\Jogo\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.exe
+C:\Users\Greicy R\Desktop\Jogo\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.pdb
+C:\Users\Greicy R\Desktop\Jogo\JogoDaMemoria\JogoDaMemoria\bin\Debug\JogoDaMemoria.exe.config
+C:\Users\Greicy R\Desktop\Jogo\JogoDaMemoria\JogoDaMemoria\bin\Debug\JogoDaMemoria.exe
+C:\Users\Greicy R\Desktop\Jogo\JogoDaMemoria\JogoDaMemoria\bin\Debug\JogoDaMemoria.pdb
